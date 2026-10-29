@@ -1,2 +1,7 @@
 *solution*.cpp
 *runme*
+*testing*
+*.ilk
+*.obj
+*pdb
+*.json
